@@ -1,0 +1,15 @@
+html{
+    background-color: #181818;
+    color: whitesmoke;
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    padding: 15px;
+    font-size: 20px;
+    background-color: #282828;
+}
