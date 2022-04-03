@@ -87,7 +87,7 @@ h3{
       background-color: #181818;
       font-size: large;
       color: whitesmoke;
-      cursor: url("img/cursor.png"), pointer;
+      cursor: pointer;
       width: 200px;
   }
 
